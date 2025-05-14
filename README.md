@@ -21,11 +21,11 @@ cd /home/teaspeak/; su teaspeak
 ```
 # 64bit Download versi terbaru dengan tautan di bawah ini:
 ```
-https://repo.teaspeak.de/server/linux/amd64_$teaspeak_channel/TeaSpeak-$teaspeak_version.tar.gz
+wget https://github.com/bpbd1/Tesapeak/releases/download/wewe/TeaSpeak.tar.gz
 ```
 # 32bit Download versi terbaru dengan tautan di bawah ini:
 ```
-https://repo.teaspeak.de/server/linux/amd32_$teaspeak_channel/TeaSpeak-$teaspeak_version.tar.gz
+wget https://github.com/bpbd1/Tesapeak/releases/download/wewe32/TeaSpeak.tar.gz
 ```
 # Ekstrak file “.tar.gz” dan hapus:
 ```
