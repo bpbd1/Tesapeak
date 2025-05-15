@@ -51,7 +51,7 @@ Simpan token dan data login kueri Anda ke Wordpad atau tempat lain yang memungki
 cd /home
 ```
 ```
-nano tsanticrash.sh
+nona tsanticrash.sh
 ```
 ```
 #!/bin/bash
